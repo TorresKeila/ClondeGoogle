@@ -35,4 +35,4 @@ En este proyecto me enfoqué  en contruir la clonación de la intefraz de google
 Aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 
 ## Link a Demo 
-Aqui puedes ver el proyecto elaborado: [Clonacion de Google](https://clonde-google-delta.vercel.app/)https://clonde-google-delta.vercel.app/)
+Aqui puedes ver el proyecto elaborado: [Clonacion de Google](https://clonde-google-delta.vercel.app/)
